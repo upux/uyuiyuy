@@ -21,12 +21,6 @@
         "catfan/medoo": "^1.6",
         "morilog/jalali": "3.*"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/upux/uyuiyuy.git"
-        }
-    ],
     "autoload": {
     }
 }
